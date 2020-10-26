@@ -12,6 +12,6 @@ Run `learn test` to get started. Write your `SQL` in `lib/students.rb` to get th
 
 Note: Since it's a Ruby file, write your queries as strings inside each method already defined in `lib/students.rb` .
 
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/sql-aggregate-functions-lab' title='Objectives:'>Objectives:</a> on Learn.co and start learning to code for free.</p>
 
-<p class='util--hide'>View <a href='https://learn.co/lessons/sql-aggregate-functions-lab'>SQL Aggregate Functions Lab </a> on Learn.co and start learning to code for free.</p>
+
+
